@@ -7,7 +7,6 @@ app.use(express.static('build'))
 app.use(express.json())
 
 const mongoose = require('mongoose')
-const password = 'ZlJWFxWvrQ42J1AU'
 const url = `mongodb+srv://aayushbhanot04:${password}@cluster0.olgctgj.mongodb.net/phonebookapp?retryWrites=true&w=majority`
 
 mongoose.set('strictQuery',false)
