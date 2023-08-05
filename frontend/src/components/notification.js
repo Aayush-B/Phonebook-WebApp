@@ -8,7 +8,7 @@ const Notification = ({ message }) => {
         
         
         color: 'blue', 
-        fontSize : '10px', 
+        fontSize : '15px', 
         padding: '10px',
         marginBottom: '10px',
         background: 'lightgrey',
