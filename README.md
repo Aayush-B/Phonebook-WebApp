@@ -2,6 +2,9 @@
 
 Basic CRUD app using the MERN (Mongo DB, Express, React, Node) stack. This app implements RESTful APIs for user authentication using open-source security libraries combined with Mongo DB and JSON web tokens (jwt) to allow users to create, update, and delete phonebook entries of their contacts. 
 
+View the app here: https://phonebookappaayush.fly.dev/
+and start adding your own entries by signing up. 
+
 Here is the main page:
 
 ![Alt text](HomePage.jpg)

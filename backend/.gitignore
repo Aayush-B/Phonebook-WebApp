@@ -2,3 +2,5 @@
 .dockerignore
 .env
 package-lock.json
+fly.toml
+build/
